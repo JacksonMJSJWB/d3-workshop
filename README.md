@@ -1,4 +1,5 @@
 # d3-workshop
+---------------
 
 [D3 Workshop Series](http://duspviz.mit.edu/d3-workshop/)
 
